@@ -1,0 +1,1 @@
+Figure 2: The top prediction of the structure of HKVC (UNIPROT: Q9KRK1) using Phyre2. Figure made using Pymol  

@@ -1,0 +1,1 @@
+Figure 4 Alphafold2's prediction of HKVC structure coloured by the confidence in the model. Note the low confidence region linking the HAMP and HK domains.
